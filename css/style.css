@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-80{
+    width: 80%;
+    margin:auto;
+    
+}
+
+.mr-top{
+    margin-top: 20px;
+}
+
+.mr-bot{
+    margin-bottom: 20px;
+}
+
+.header-top{
+height: 100px;
+background-color: purple;
+}
+
+.header-bottom{
+    height: 300px;
+    background-color: yellow;
+}
